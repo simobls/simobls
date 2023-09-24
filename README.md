@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MOHAMED, I'm an ALX SE and FST-bm student, from Morocco...</h2>
+<h2 align="center">Hi 👋! My name is MOHAMED, I'm an ALX SE and FST-bm student, from Morocco...</h2>
 
 ###
 
@@ -16,11 +16,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/simobls/simobls/output/snake.svg" alt="Snake animation" />
 
 ###
